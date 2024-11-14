@@ -21,6 +21,7 @@ Magic Mirror is an AI-enhanced edge detection application that uses Stable Diffu
 **Clone the repository**:
 
    git clone https://github.com/anttiluode/MagicMirror.git
+   
    cd magic-mirror
    
 **Install the required dependencies**:
